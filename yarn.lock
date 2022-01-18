@@ -2019,6 +2019,11 @@ domexception@^2.0.1:
   dependencies:
     webidl-conversions "^5.0.0"
 
+driver@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/driver/-/driver-1.0.0.tgz#af42d841260757f1699cd7f17beec235232d3893"
+  integrity sha512-beS/9xzokH5BMdOcJ91QL3eghbtHvst4BI29iabJXC32XOrztwJnh1CQyZl5T8jDwkczIaESYTmZHPfJKjfHLA==
+
 dynamic-dedupe@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/dynamic-dedupe/-/dynamic-dedupe-0.3.0.tgz#06e44c223f5e4e94d78ef9db23a6515ce2f962a1"
